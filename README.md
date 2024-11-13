@@ -1,6 +1,6 @@
 # 30-days-challenge
 ___
-## Day 1 : Learning about improving 
+## Day 1 : Learning about improving UI
 ___
 ## Day 2 :
 ___
