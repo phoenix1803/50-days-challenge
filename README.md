@@ -1,6 +1,6 @@
 # 30-days-challenge
 ___
-## Day 1 : Learning about improving UI
+## Day 1 : Learning about Numpy ufuncs and made the homepage of IG responsive.        
 ___
 ## Day 2 :
 ___
