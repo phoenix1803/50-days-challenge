@@ -2,7 +2,7 @@
 ___
 ## Day 1 : Learning about Numpy ufuncs and made the homepage of IG responsive.        
 ___
-## Day 2 :
+## Day 2 : Learnt about basics of firebase and Some functions of PANDAS
 ___
 ## Day 3 :
 ___
