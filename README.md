@@ -1,5 +1,5 @@
-# 30-days-challenge
-(https://github.com/phoenix1803/30-days-challenge)
+# [30-days-challenge](https://github.com/phoenix1803/30-days-challenge)
+
 ___
 ## Day 1 : Learning about Numpy ufuncs and made the homepage of IG responsive.        
 ___
