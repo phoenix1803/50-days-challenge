@@ -4,7 +4,7 @@ ___
 ___
 ## Day 2 : Learnt about basics of firebase and Some functions of PANDAS
 ___
-## Day 3 :
+## Day 3 : Started learning scikit-learn and revised c
 ___
 ## Day 4 :
 ___
