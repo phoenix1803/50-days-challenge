@@ -13,7 +13,7 @@ ___
 ___
 ## Day 6 : Practiced C for externals, changed color of the icons(svg files were black,made them white) 
 ___
-## Day 7 : Improved the Instagram home page and added a login page
+## Day 7 : Improved the Instagram home page and added a login page.
 ___
 ## Day 8 :
 ___
