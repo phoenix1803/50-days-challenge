@@ -15,7 +15,7 @@ ___
 ___
 ## Day 7 : Improved the Instagram home page and added a login page.
 ___
-## Day 8 :
+## Day 8 : Added forgot password page and signup page in instagram
 ___
 ## Day 9 :
 ___
