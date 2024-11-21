@@ -17,7 +17,7 @@ ___
 ___
 ## Day 8 : Added forgot password page and signup page in instagram
 ___
-## Day 9 :
+## Day 9 : Added a slider login animation to the login page of instagram,Started a ML course (basics)
 ___
 ## Day 10 :
 ___
