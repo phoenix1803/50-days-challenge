@@ -19,7 +19,7 @@ ___
 ___
 ## Day 9 : Added a slider login animation to the login page of instagram,Started a ML course (basics)
 ___
-## Day 10 :
+## Day 10 : Finished the home page of instagram ,Finished the ML course, C certification test completed
 ___
 ## Day 11 :
 ___
