@@ -21,7 +21,7 @@ ___
 ___
 ## Day 10 : Finished the home page of instagram ,Finished the ML course, C certification test completed
 ___
-## Day 11 :
+## Day 11 : Added finishing touches ,made the logo of the instagram app
 ___
 ## Day 12 : 
 ___
