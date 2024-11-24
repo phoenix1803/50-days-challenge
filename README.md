@@ -21,9 +21,9 @@ ___
 ___
 ## Day 10 : Finished the home page of instagram ,Finished the ML course, C certification test completed
 ___
-## Day 11 : Added finishing touches ,made the logo of the instagram app
+## Day 11 : Made the posts section ,made the logo of the instagram clone app
 ___
-## Day 12 : 
+## Day 12 : Finished the posts portion of instagram 
 ___
 ## Day 13 :
 ___
