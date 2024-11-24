@@ -7,7 +7,7 @@ ___
 ___
 ## Day 3 : Started learning scikit-learn and revised c
 ___
-## Day 4 : Revised c and scikit-learn
+## Day 4 : Revised c and started scikit-learn
 ___
 ## Day 5 : Finished the instagram home page
 ___
