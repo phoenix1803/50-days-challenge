@@ -25,7 +25,7 @@ ___
 ___
 ## Day 12 : Finished the posts portion of instagram 
 ___
-## Day 13 :
+## Day 13 : Started a web devlopment course 
 ___
 ## Day 14 :
 ___
