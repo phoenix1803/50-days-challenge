@@ -27,7 +27,7 @@ ___
 ___
 ## Day 13 : Started a web devlopment course 
 ___
-## Day 14 :
+## Day 14 : Finished module 2 of the JS course
 ___
 ## Day 15 :
 ___
