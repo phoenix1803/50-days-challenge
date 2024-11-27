@@ -29,7 +29,7 @@ ___
 ___
 ## Day 14 : Finished module 2 of the JS course
 ___
-## Day 15 : ...
+## Day 15 : Finished half of module 3 of the JS course
 ___
 ## Day 16 :
 ___
