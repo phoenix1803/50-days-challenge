@@ -31,7 +31,7 @@ ___
 ___
 ## Day 15 : Finished module 3 of the JS course
 ___
-## Day 16 :
+## Day 16 : Finished module 4 of the JS course 
 ___
 ## Day 17 :
 ___
