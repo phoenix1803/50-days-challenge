@@ -33,7 +33,7 @@ ___
 ___
 ## Day 16 : Finished module 4 of the JS course 
 ___
-## Day 17 :
+## Day 17 : Started working on project for code khestra 
 ___
 ## Day 18 :
 ___
