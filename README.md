@@ -33,9 +33,9 @@ ___
 ___
 ## Day 16 : Finished module 4 of the JS course 
 ___
-## Day 17 : Started working on project for code khestra 
+## Day 17 : Started working on project for code khestra (made the work flow)
 ___
-## Day 18 :
+## Day 18 : Made the pre processing part of the code khestra project
 ___
 ## Day 19 : 
 ___
