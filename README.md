@@ -37,7 +37,7 @@ ___
 ___
 ## Day 18 : Made the pre processing part of the code khestra project
 ___
-## Day 19 : 
+## Day 19 : Sci-kit Learn - practiced 3 out of 6 sheets
 ___
 ## Day 20 :
 ___
