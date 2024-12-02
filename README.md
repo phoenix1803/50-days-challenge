@@ -39,11 +39,11 @@ ___
 ___
 ## Day 19 : Sci-kit Learn - practiced 3 out of 6 sheets
 ___
-## Day 20 :
+## Day 20 : Finished half of module 5 of the JS course 
 ___
-## Day 21 :
+## Day 21 : Sci-kit Learn - practiced the remaining sheets
 ___
-## Day 22 :
+## Day 22 : 
 ___
 ## Day 23 :
 ___
