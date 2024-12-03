@@ -43,7 +43,7 @@ ___
 ___
 ## Day 21 : Sci-kit Learn - practiced the remaining sheets
 ___
-## Day 22 :  
+## Day 22 : Learnt the basics of R (to do my friend's assignment)
 ___
 ## Day 23 :
 ___
