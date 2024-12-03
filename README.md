@@ -43,7 +43,7 @@ ___
 ___
 ## Day 21 : Sci-kit Learn - practiced the remaining sheets
 ___
-## Day 22 : 
+## Day 22 :  
 ___
 ## Day 23 :
 ___
