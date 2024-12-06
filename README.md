@@ -53,7 +53,7 @@ ___
 ___
 ## Day 26 : [Finished module 9 of the JS course](https://github.com/phoenix1803/JavaScript-learning-programs-)
 ___
-## Day 27 : 
+## Day 27 : Started revision of C from the Apna college youtube one shot video 
 ___
 ## Day 28 :
 ___
