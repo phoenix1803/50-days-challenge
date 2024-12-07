@@ -19,7 +19,7 @@ ___
 ___
 ## Day 9 : Added a slider login animation to the login page of [instagram](https://github.com/phoenix1803/Instagram-Clone) ,Started a ML course (basics)
 ___
-## Day 10 : Finished the home page of instagram ,Finished the ML course, C certification test completed
+## Day 10 : Finished the home page of [instagram](https://github.com/phoenix1803/Instagram-Clone) , Finished the ML course , C certification test completed
 ___
 ## Day 11 : Made the posts section ,made the logo of the [instagram clone app](https://github.com/phoenix1803/Instagram-Clone)
 ___
@@ -55,9 +55,9 @@ ___
 ___
 ## Day 27 : Started revision of C from the Apna college youtube one shot video 
 ___
-## Day 28 :
+## Day 28 : Learnt using GIT , GITHUB and Version control in depth
 ___
-## Day 29 :
+## Day 29 : Finished the Javascript Certification test
 ___
 ## Day 30 :
 ___
