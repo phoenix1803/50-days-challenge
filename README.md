@@ -58,7 +58,7 @@ ___
 ## Day 28 : Learnt using GIT , GITHUB and Version control in depth
 ___
 ## Day 29 : Finished the Javascript Certification test
-___
+___ 
 ## Day 30 : Made notes of dbms (overview flowcharts etc) and sql
 ___
 
