@@ -33,7 +33,7 @@ ___
 ___
 ## Day 16 : [Finished module 4 of the JS course](https://github.com/phoenix1803/JavaScript-learning-programs-) 
 ___
-## Day 17 : Started working on project for code khestra (made the work flow)
+## Day 17 : Started working on project for code khestra (made the work flow) 
 ___
 ## Day 18 : Made the pre processing part of the code kshestra project
 ___
