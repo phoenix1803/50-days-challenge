@@ -8,7 +8,7 @@ ___
 ## Day 3 : [Started learning scikit-learn and revised c](https://github.com/phoenix1803/C-learning-programs)
 ___   
 ## Day 4 : [Revised C](https://github.com/phoenix1803/C-learning-programs) and started scikit-learn
-___
+___ 
 ## Day 5 : Finished the home page of [instagram](https://github.com/phoenix1803/Instagram-Clone)
 ___
 ## Day 6 : [Practiced C for externals](https://github.com/phoenix1803/C-learning-programs), changed color of the icons(svg files were black,made them white) of the [instagram clone](https://github.com/phoenix1803/Instagram-Clone)
