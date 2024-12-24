@@ -6,7 +6,7 @@ ___
 ## Day 2 : Learnt about basics of firebase and Some functions of PANDAS
 ___
 ## Day 3 : [Started learning scikit-learn and revised c](https://github.com/phoenix1803/C-learning-programs)
-___   
+___     
 ## Day 4 : [Revised C](https://github.com/phoenix1803/C-learning-programs) and started scikit-learn
 ___ 
 ## Day 5 : Finished the home page of [instagram](https://github.com/phoenix1803/Instagram-Clone)
