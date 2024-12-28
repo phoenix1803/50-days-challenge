@@ -61,7 +61,7 @@ ___
 ___ 
 ## Day 30 : Made notes of dbms (overview flowcharts etc) and sql
 ___  
-
+    
 
 
 
