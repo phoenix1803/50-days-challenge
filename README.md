@@ -1,4 +1,4 @@
-# [50-days-challenge](https://github.com/phoenix1803/30-days-challenge)        
+# [50-days-challenge](https://github.com/phoenix1803/50-days-challenge)        
                               
 ___   
 ## Day 1 : Learning about Numpy ufuncs and made the homepage responsive of [instagram](https://github.com/phoenix1803/Instagram-Clone)         
@@ -35,7 +35,7 @@ ___
 ___
 ## Day 17 : Started working on project for code khestra (made the work flow) 
 ___
-## Day 18 : Made the pre processing part of the code kshestra project
+## Day 18 : Solved the daily leetcode problem
 ___
 ## Day 19 : Sci-kit Learn - practiced 3 out of 6 sheets
 ___
@@ -47,7 +47,7 @@ ___
 ___
 ## Day 23 : [Finished module 5 and 6 of the JS course](https://github.com/phoenix1803/JavaScript-learning-programs-) 
 ___
-## Day 24 : Made a classifier for the code kheshtra project
+## Day 24 : Solved the daily leetcode problem
 ___
 ## Day 25 : [Finished module 7 and 8 of the JS course](https://github.com/phoenix1803/JavaScript-learning-programs-)
 ___
@@ -61,7 +61,75 @@ ___
 ___ 
 ## Day 30 : Made notes of dbms (overview flowcharts etc) and sql
 ___  
-    
+## Day 31 : Started learning UX finished half of the course
+___  
+## Day 32 : Completed the GEN AI study path on Udacity
+___  
+## Day 33 : Did the certification test of the GEN AI on Udacity
+___  
+## Day 34 : Learnt OpenCV and completed a course 
+___  
+## Day 35 : Completed the design system course for developers from GYMNASIUM
+___  
+## Day 36 : Did the daily leetcode question
+___  
+## Day 37 : Revised SQL and , Completed all the questions of SQL on HackerRank 
+___  
+## Day 38 : Completed all the questions of C on HackerRank
+___  
+## Day 39 : Learnt about JSON
+___  
+## Day 40 : Started learning React
+___  
+## Day 41 : Did the daily leetcode question
+___  
+## Day 42 : Started making the Portfolio website
+___  
+## Day 43 : Made the transition , animations , navbar of the portfolio website
+___  
+## Day 44 : Revised Tailwind
+___  
+## Day 45 : Implemented responsiveness in the navbaar of the portfolio webite
+___  
+## Day 46 : Did the daily leetcode question
+___  
+## Day 47 : Made the messages section of the Instagram clone
+___  
+## Day 48 : Made the Reels section of the Instagram clone
+___  
+## Day 49 : Added infinite scroll in the reels section of the Instagram clone
+___  
+## Day 50 : Made the reels section of the Instagram clone responsive
+___  
+## Day 51 : 
+___  
+## Day 52 : 
+___  
+## Day 53 : 
+___  
+## Day 54 : 
+___  
+## Day 55 : 
+___  
+## Day 56 : 
+___  
+## Day 57 : 
+___  
+## Day 58 : 
+___  
+## Day 59 : 
+___  
+## Day 60 : 
+___  
+## Day 61 : 
+___  
+## Day 62 : 
+___  
+## Day 63 : 
+___  
+## Day 64 : 
+___  
+
 
 
 
