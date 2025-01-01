@@ -107,15 +107,15 @@ ___
 ___  
 ## Day 53 : Finished the JARVIS like assistant by adding the remaining features.
 ___  
-## Day 54 : 
+## Day 54 : Attempted the HackerRank certification test of SQL (Basic)
 ___  
-## Day 55 : 
+## Day 55 : Attempted the HackerRank certification test of CSS
 ___  
-## Day 56 : 
+## Day 56 : Attempted the HackerRank certification test of SQL (Intermediate)
 ___  
-## Day 57 : 
+## Day 57 : Attempted the HackerRank certification test of SQL (Advanced)
 ___  
-## Day 58 : 
+## Day 58 : Attempted the HackerRank certification test of JavaScript
 ___  
 ## Day 59 : 
 ___  
