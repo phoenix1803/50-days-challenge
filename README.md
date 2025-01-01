@@ -101,11 +101,11 @@ ___
 ___  
 ## Day 50 : Made the reels section of the Instagram clone responsive
 ___  
-## Day 51 : 
+## Day 51 : Did the daily Leetcode problem
 ___  
-## Day 52 : 
+## Day 52 : Added particles in portfolio website
 ___  
-## Day 53 : 
+## Day 53 : Finished the JARVIS like assistant by adding the remaining features.
 ___  
 ## Day 54 : 
 ___  
@@ -128,6 +128,18 @@ ___
 ## Day 63 : 
 ___  
 ## Day 64 : 
+___  
+## Day 65 : 
+___  
+## Day 66 : 
+___  
+## Day 67 : 
+___  
+## Day 68 : 
+___  
+## Day 69 : 
+___  
+## Day 70 : 
 ___  
 
 
