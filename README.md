@@ -115,7 +115,7 @@ ___
 ___  
 ## Day 57 : Attempted the HackerRank certification test of SQL (Advanced)
 ___  
-## Day 58 : Attempted the HackerRank certification test of JavaScript
+## Day 58 : Attempted the HackerRank certification test of JavaScript (Basic)
 ___  
 ## Day 59 : 
 ___  
