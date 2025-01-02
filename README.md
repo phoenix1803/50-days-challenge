@@ -117,7 +117,7 @@ ___
 ___  
 ## Day 58 : Attempted the HackerRank certification test of JavaScript (Basic)
 ___  
-## Day 59 : 
+## Day 59 : Attempted the HackerRank certification test of JavaScript (Intermediate)
 ___  
 ## Day 60 : 
 ___  
