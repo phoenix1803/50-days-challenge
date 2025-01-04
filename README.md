@@ -119,7 +119,7 @@ ___
 ___  
 ## Day 59 : Attempted the HackerRank certification test of JavaScript (Intermediate)
 ___  
-## Day 60 : 
+## Day 60 : Revised JSON and did the daily leetcode problem
 ___  
 ## Day 61 : 
 ___  
