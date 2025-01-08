@@ -121,7 +121,7 @@ ___
 ___  
 ## Day 60 : Revised JSON and did the daily leetcode problem
 ___  
-## Day 61 : 
+## Day 61 : Made the page component of the portfolio website
 ___  
 ## Day 62 : 
 ___  
