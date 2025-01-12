@@ -123,9 +123,9 @@ ___
 ___  
 ## Day 61 : Made the page component of the portfolio website
 ___  
-## Day 62 : 
+## Day 62 : Started Working on a Social media dash board using astra db and lang chain
 ___  
-## Day 63 : 
+## Day 63 : Learnt langchain and made the pipeline
 ___  
 ## Day 64 : 
 ___  
