@@ -127,21 +127,79 @@ ___
 ___  
 ## Day 63 : Learnt langchain and made the pipeline
 ___  
-## Day 64 : 
+## Day 64 : Made the search section of the Instagram app
 ___  
-## Day 65 : 
+## Day 65 : Made the notifications section of the Instagram app
 ___  
-## Day 66 : 
+## Day 66 : Made the reels section of the Instagram app
 ___  
-## Day 67 : 
+## Day 67 : Made the settings section of the Instagram app
 ___  
-## Day 68 : 
+## Day 68 : Refined the notification section of the Instagram app
 ___  
-## Day 69 : 
+## Day 69 : Made the reels section of the Instagram app responsive
 ___  
-## Day 70 : 
+## Day 70 : Made the profile section of the Instagram app
 ___  
-
-
+## Day 71 : Made the profile section of the Instagram app responsive
+___ 
+## Day 72 : Added highlights section in the profile of the Instagram app
+___ 
+## Day 73 : Refined most of the profile page Instagram app
+___
+## Day 74 :
+___ 
+## Day 75 :
+___
+## Day 76 :
+___
+## Day 77 :
+___
+## Day 78 :
+___
+## Day 79 :
+___
+## Day 80 :
+___
+## Day 81 :
+___
+## Day 82 :
+___
+## Day 83 :
+___
+## Day 84 :
+___
+## Day 85 :
+___
+## Day 86 :
+___
+## Day 87 :
+___
+## Day 88 :
+___
+## Day 89 :
+___
+## Day 90 :
+___
+## Day 91 :
+___
+## Day 92 :
+___
+## Day 93 :
+___
+## Day 94 :
+___
+## Day 95 :
+___
+## Day 96 :
+___
+## Day 97 :
+___
+## Day 98 :
+___
+## Day 99 :
+___
+## Day 100 :
+___
 
 
