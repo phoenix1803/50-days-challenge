@@ -147,9 +147,9 @@ ___
 ___ 
 ## Day 73 : Refined most of the profile page Instagram app
 ___
-## Day 74 :
+## Day 74 : Added infinite scroll in the homepage and also added carousels and reels in the Instagram clone
 ___ 
-## Day 75 :
+## Day 75 : Added songs,mute/unmute in the stories in the profile section of the Instagram clone
 ___
 ## Day 76 :
 ___
