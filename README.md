@@ -1,5 +1,5 @@
 # [50-days-challenge](https://github.com/phoenix1803/50-days-challenge)               
-                                 
+
 ___              
 ## Day 1 : Learning about Numpy ufuncs and made the homepage responsive of [instagram](https://github.com/phoenix1803/Instagram-Clone)         
 ___      
@@ -151,55 +151,55 @@ ___
 ___ 
 ## Day 75 : Added songs,mute/unmute in the stories in the profile section of the Instagram clone
 ___
-## Day 76 :
+## Day 76 : Completed module 1,2,3 of the Node course
 ___
-## Day 77 :
+## Day 77 : Completed module 4,5 of the Node course
 ___
-## Day 78 :
+## Day 78 : Completed module 6 of the Node course
 ___
-## Day 79 :
+## Day 79 : Completed module 7,8 of the Node course
 ___
-## Day 80 :
+## Day 80 : Completed module 9 of the Node course
 ___
-## Day 81 :
+## Day 81 : Completed module 10 of the Node course
 ___
-## Day 82 :
+## Day 82 : Revised Django through a course
 ___
-## Day 83 :
+## Day 83 : Started a React course
 ___
-## Day 84 :
+## Day 84 : Did 10% of the React course
 ___
-## Day 85 :
+## Day 85 : Started Express Course
 ___
-## Day 86 :
+## Day 86 : Completed 10%  Express Course
 ___
-## Day 87 :
+## Day 87 : Completed 30%  Express Course
 ___
-## Day 88 :
+## Day 88 : Completed 50%  Express Course
 ___
-## Day 89 :
+## Day 89 : Completed 70%  Express Course
 ___
-## Day 90 :
+## Day 90 : Completed 80%  Express Course
 ___
-## Day 91 :
+## Day 91 : Completed 30%  React Course
 ___
-## Day 92 :
+## Day 92 : Completed 40%  React Course
 ___
-## Day 93 :
+## Day 93 : 
 ___
-## Day 94 :
+## Day 94 : 
 ___
-## Day 95 :
+## Day 95 : 
 ___
-## Day 96 :
+## Day 96 : 
 ___
-## Day 97 :
+## Day 97 : 
 ___
-## Day 98 :
+## Day 98 : 
 ___
-## Day 99 :
+## Day 99 : 
 ___
-## Day 100 :
+## Day 100 : 
 ___
 
 
