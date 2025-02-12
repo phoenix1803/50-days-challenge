@@ -3,7 +3,7 @@
 ___                   
 ## Day 1 : Learning about Numpy ufuncs and made the homepage responsive of [instagram](https://github.com/phoenix1803/Instagram-Clone)         
 ___      
-## Day 2 : Learnt about basics of firebase and Some functions of PANDAS  
+## Day 2 : Learnt about basics of firebase and Some functions of PANDAS     
 ___ 
 ## Day 3 : [Started learning scikit-learn and revised c](https://github.com/phoenix1803/C-learning-programs)
 ___     
