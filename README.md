@@ -1,5 +1,5 @@
 # [50-days-challenge](https://github.com/phoenix1803/50-days-challenge)               
-     
+       
 ___                   
 ## Day 1 : Learning about Numpy ufuncs and made the homepage responsive of [instagram](https://github.com/phoenix1803/Instagram-Clone)         
 ___      
