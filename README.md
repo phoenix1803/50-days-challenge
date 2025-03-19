@@ -1,6 +1,6 @@
 # [50-days-challenge](https://github.com/phoenix1803/50-days-challenge)               
             
-___                                  
+___                                     
 ## Day 1 : Learning about Numpy ufuncs and made the homepage responsive of [instagram](https://github.com/phoenix1803/Instagram-Clone)         
 ___      
 ## Day 2 : Learnt about basics of firebase and Some functions of PANDAS     
