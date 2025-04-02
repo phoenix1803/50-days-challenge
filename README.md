@@ -185,11 +185,11 @@ ___
 ___
 ## Day 92 : Completed 40%  React Course
 ___
-## Day 93 : 
+## Day 93 : Completed the React Course
 ___
-## Day 94 : 
+## Day 94 : Made the homepage of Scorematrix
 ___
-## Day 95 : 
+## Day 95 : Made the dash
 ___
 ## Day 96 : 
 ___
